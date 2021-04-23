@@ -3,6 +3,7 @@
 ## 介绍
 
 > 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
+> https://bean.m.jd.com/bean/signIndex.action
 
 
 ## 触发方式
